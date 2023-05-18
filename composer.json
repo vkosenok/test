@@ -1,5 +1,5 @@
 {
-    "name": "deckcommerce/integration-module",
+    "name": "deckcommerce_test/integration-module",
     "description": "A Magento 2 Deck Commerce integration module",
     "type": "magento2-module",
     "version": "2023.1.2",
