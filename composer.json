@@ -7,8 +7,17 @@
     "require": {
         "php": "~7.3.0||~7.4.0||~8.0.0||~8.1.0||~8.2.0"
     },
+    "authors": [
+        {
+            "name": "DeckCommerce",
+            "email": "magento@deckcommerce.com",
+            "homepage": "https://www.deckcommerce.com"
+        }
+    ],
     "autoload": {
-        "files": [ "registration.php" ],
+        "files": [
+            "registration.php"
+        ],
         "psr-4": {
             "DeckCommerce\\Integration\\": ""
         }

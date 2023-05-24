@@ -52,6 +52,16 @@ In the left menu: Deck Commerce
 
 ## Installation
 
+### Install Via Composer
+
+Run the following command in Magento 2 root folder:
+
+```
+composer require deckcommerce/integration-module
+```
+
+### Manual Installation
+
 To install Deck Commerce Integration, create a new directory app/code/DeckCommerce/Integration/ 
 and copy there the contents of the unzipped DeckCommerce_Integration/ folder.
 Finally the folders structure must be the following: app/code/DeckCommerce/Integration/[registration.php and other module files].
