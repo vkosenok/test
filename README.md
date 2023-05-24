@@ -54,7 +54,7 @@ In the left menu: Deck Commerce
 
 ### Install or Update Via Composer
 
-Run the following command in Magento 2 root folder:
+To install Deck Commerce Integration via Composer, run the following command in Magento 2 root folder:
 
 ```
 composer require deckcommerce/integration-module
