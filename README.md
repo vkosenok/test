@@ -39,7 +39,7 @@ It has the following features:
 
 
 ## Requirements
-  * Magento Enterprise Edition 2.3.x-2.4.x
+  * Magento Enterprise (or Cloud) Edition 2.3.x-2.4.x
 
 ## Configuration in Admin Panel
 
